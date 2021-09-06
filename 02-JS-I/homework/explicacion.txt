@@ -1,0 +1,16 @@
+-Variables:Es un espacio en memoria capaz de guardar diferentes tipos de datos para poder ser utilizados mas tarde.
+
+-String: Es un tipo de datos de tipo capas de albergar cadenas de texto,letras ,etc ademas de otras funciones.
+
+-Funciones:Es un conjunto de codigo que se usa para agrupar muchas lineas de codigo.
+
+*Argumentos: Son Variables creadas dentro de una funcion.
+
+*Return:Retorna el valor de una funcion.
+
+-If: Es una una forma de evaluar si una condicion es verdadera o falsa.
+
+-Valores Booleanos: Sirven para indicar si una condcion se cumple o no.
+
+*True: Verdadero.
+*False: Falso.

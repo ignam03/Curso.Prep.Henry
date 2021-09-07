@@ -1,0 +1,7 @@
+-FOR:Es un tipo de bucle que se usa para repetir una determinada cantidad de veces y sirve mucho para no repetir codigo.
+
+-&&: Se usa para determinar si una expresion es verdadera o falsa, se necesita que ambas expresiones sean verdaderas  de lo contrario si una de las dos es falsa devolvera falso.
+
+-||: Se usa para determinar si una expresion es verdadera o falsa.
+
+-!: Se usa para negar, asi mismo tambien para determinar una igualdad, devuelve el valor opuesto.

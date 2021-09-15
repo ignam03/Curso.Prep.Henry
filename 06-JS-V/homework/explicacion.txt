@@ -1,0 +1,2 @@
+-prototype: es un conjunto de funcion que viene por defecto o se puede asignar a un objeto.
+-_Constructors_:Es un metodo que se usa para crear o inicializar un objeto creado a partir de una clase.

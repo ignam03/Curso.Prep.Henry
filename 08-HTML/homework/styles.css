@@ -1,0 +1,21 @@
+body{
+    size: 18px;
+}
+h1{
+    color: lime;
+}
+img{
+    width: 400px; 
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: linen;
+    padding: 50px;
+    border: 2px solid springgreen;
+}
+
+#spanId{
+    margin: 50px;
+}

@@ -73,7 +73,7 @@ function tieneEmail(usuario) {
   } else{
     return false;
   }
-  
+
 }
 
 
@@ -88,7 +88,7 @@ function tienePropiedad(objeto, propiedad) {
   } else{
     return false;
   }
-
+  
 }
 
 function verificarPassword(usuario, password) {

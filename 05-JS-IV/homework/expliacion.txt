@@ -1,0 +1,6 @@
+-Objetos:es una entidad independiente, los objetos son un conjunto de Propiedades y tipos.
+-Propiedades: es un nombre o clave y un valor 
+-Métodos:los metodos sirven para hacer acciones modifica propiedades y otras funciones mas
+-Bucle `for…in`:solo itera sobre propiedades enumerables que no son de símbolo
+-Notación de puntos:se usa para acceder a las propiedades o metodos de un objeto.
+-notación de corchetes: es otra manera de acceder a las propiedades o metodos de un objeto.

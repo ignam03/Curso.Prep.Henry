@@ -1,1 +1,1 @@
--Arrays: Tambien conocidos como arreglos es una coleccion de datos que nos sirver para poder agrupar diferentes tipos de datos ya sea num, string, etc.
+-Arrays: Tambien conocidos como arreglos es una coleccion de datos que nos sirven para poder agrupar diferentes tipos de datos ya sea num, string, etc.

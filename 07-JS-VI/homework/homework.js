@@ -62,6 +62,7 @@ function filter(array) {
     }
   }
   return mostrarA;
+  
 }
 
 // No modificar nada debajo de esta línea

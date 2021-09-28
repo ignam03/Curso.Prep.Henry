@@ -46,7 +46,6 @@ function map(array, cb) {
   // El nuevo array debe tener la misma longitud que el array del argumento
   //Tu código:
   
-
   var arrayNuevo2 = array.map(x => x = cb(x));
   return arrayNuevo2;
 }

@@ -70,12 +70,13 @@ class Persona {
   }
   
   detalle = function(){
-    return {
+    var obj1 = {
       Nombre : this.nombre,
         Apellido : this.apellido,
         Edad : this.edad,
         Domicilio : this.domicilio
     }
+    return obj1;
   }
 }
 

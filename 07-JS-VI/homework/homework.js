@@ -37,7 +37,7 @@ function forEach(array, cb) {
   //Tu código:
   array.forEach(function(elemento, index){
     cb(elemento);
-  });
+  }); 
 }
 
 function map(array, cb) {
@@ -45,7 +45,7 @@ function map(array, cb) {
   // Itera sobre cada valor en "array", pásalo a `cb` y luego ubicar el valor devuelto por `cb` en un nuevo array
   // El nuevo array debe tener la misma longitud que el array del argumento
   //Tu código:
-  arrayNuevo = array.map(function(val){
+  var arrayNuevo = array.map(function(val){
     return cb(val);
   });
   return arrayNuevo;
@@ -55,13 +55,8 @@ function filter(array) {
   //Filtrar todos los elementos del array que comiencen con la letra "a".
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
-  var mostrarA = [];
-  for(let i = 0; i<array.length; i++) {
-    if(array[i][0] === "a") {
-      mostrarA.push(array[i])
-    }
-  }
-  return mostrarA;
+  var nuevoArray = array.filter(word => word == 'a' + word.slice(1));
+  return nuevoArray;
   
 }
 
